@@ -1,0 +1,28 @@
+{
+  "name": "data-structures-js",
+  "version": "1.0.0",
+  "description": "Data Structures in Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrAxi/data-structures-js.git"
+  },
+  "keywords": [
+    "data-structures",
+    "stack",
+    "queue"
+  ],
+  "author": "Riccardo Polacci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrAxi/data-structures-js/issues"
+  },
+  "homepage": "https://github.com/SrAxi/data-structures-js#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "jest": "^24.8.0"
+  }
+}
