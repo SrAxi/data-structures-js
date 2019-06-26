@@ -1,7 +1,7 @@
 {
   "name": "data-structures-js",
   "version": "1.0.0",
-  "description": "Data Structures in Vanilla JS",
+  "description": "Logical Data Structures in Vanilla JS",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -12,6 +12,8 @@
   },
   "keywords": [
     "data-structures",
+    "data structures",
+    "logical",
     "stack",
     "queue"
   ],
