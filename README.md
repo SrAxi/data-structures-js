@@ -3,4 +3,5 @@ In this repository I create JavaScript representations of some Logical Data Stru
 
 ### Data Structures
 - Stack
-- Queue _(Will be done next)_ 
+- Queue
+- Binary Tree _(Will be done next)_ 

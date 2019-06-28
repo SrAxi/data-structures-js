@@ -1,5 +1,9 @@
 /**
  *  STACK
+ *
+ *  - LIFO: Last In First Out
+ *  - No Random Access
+ *  - Not Iterable
  */
 function createStack(size = null) {
     let stack = [];
@@ -24,7 +28,6 @@ function createStack(size = null) {
     const peek = () => {
         if (!isEmpty()) {
             return stack[stack.length - 1];
-
         } else {
             return Error('Stack is empty!');
         }
